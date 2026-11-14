@@ -1,4 +1,4 @@
-# FileShare Pro — Java Computer Networking (Final Academic Build)
+# ShareSphere-Java-Baesd File Sharing System
 
 Java Swing desktop application using TCP sockets and a multithreaded server.
 
