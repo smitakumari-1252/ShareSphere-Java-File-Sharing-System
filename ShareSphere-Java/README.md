@@ -1,4 +1,4 @@
-# ShareSphere-Java-Baesd File Sharing System
+# ShareSphere-Java-Based File Sharing System
 
 Java Swing desktop application using TCP sockets and a multithreaded server.
 
